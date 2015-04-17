@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f4627a05f8e7fe74d81acdc4a1347627
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AccM unit L
+    100002: AccM unit R
+    100004: Camera
+    100006: E Pulse cannon
+    100008: E Pulse cannon_MeshPart0
+    100010: E Pulse cannon_MeshPart1
+    100012: Energy shield
+    100014: F - X1
+    100016: F - X1_MeshPart0
+    100018: F - X1_MeshPart1
+    100020: F x interface eGEN
+    100022: //RootNode
+    100024: L SM interface
+    100026: Lamp
+    100028: Lamp.001
+    100030: Light pulse phaser L
+    100032: Light pulse phaser R
+    100034: Mass D sensR L
+    100036: 'Mass D sensR R '
+    100038: Med pulse phaser L
+    100040: Med pulse phaser R
+    100042: Plane
+    100044: R SM interface
+    100046: Smart Missile x001
+    100048: Smart Missile x002
+    100050: Smart Missile x003
+    100052: Smart Missile x004
+    100054: Smart Missile x005
+    100056: Smart Missile x006
+    100058: 'Starseed missile 01 '
+    100060: Starseed missile 02
+    100062: V dial
+    100064: WP2 Accelerator L1
+    100066: WP2 Accelerator L2
+    100068: WP2 Accelerator R1
+    100070: WP2 Accelerator R2
+    400000: AccM unit L
+    400002: AccM unit R
+    400004: Camera
+    400006: E Pulse cannon
+    400008: E Pulse cannon_MeshPart0
+    400010: E Pulse cannon_MeshPart1
+    400012: Energy shield
+    400014: F - X1
+    400016: F - X1_MeshPart0
+    400018: F - X1_MeshPart1
+    400020: F x interface eGEN
+    400022: //RootNode
+    400024: L SM interface
+    400026: Lamp
+    400028: Lamp.001
+    400030: Light pulse phaser L
+    400032: Light pulse phaser R
+    400034: Mass D sensR L
+    400036: 'Mass D sensR R '
+    400038: Med pulse phaser L
+    400040: Med pulse phaser R
+    400042: Plane
+    400044: R SM interface
+    400046: Smart Missile x001
+    400048: Smart Missile x002
+    400050: Smart Missile x003
+    400052: Smart Missile x004
+    400054: Smart Missile x005
+    400056: Smart Missile x006
+    400058: 'Starseed missile 01 '
+    400060: Starseed missile 02
+    400062: V dial
+    400064: WP2 Accelerator L1
+    400066: WP2 Accelerator L2
+    400068: WP2 Accelerator R1
+    400070: WP2 Accelerator R2
+    2300000: AccM unit L
+    2300002: AccM unit R
+    2300004: E Pulse cannon_MeshPart0
+    2300006: E Pulse cannon_MeshPart1
+    2300008: Energy shield
+    2300010: F - X1_MeshPart0
+    2300012: F - X1_MeshPart1
+    2300014: F x interface eGEN
+    2300016: L SM interface
+    2300018: Light pulse phaser L
+    2300020: Light pulse phaser R
+    2300022: Mass D sensR L
+    2300024: 'Mass D sensR R '
+    2300026: Med pulse phaser L
+    2300028: Med pulse phaser R
+    2300030: Plane
+    2300032: R SM interface
+    2300034: Smart Missile x001
+    2300036: Smart Missile x002
+    2300038: Smart Missile x003
+    2300040: Smart Missile x004
+    2300042: Smart Missile x005
+    2300044: Smart Missile x006
+    2300046: 'Starseed missile 01 '
+    2300048: Starseed missile 02
+    2300050: V dial
+    2300052: WP2 Accelerator L1
+    2300054: WP2 Accelerator L2
+    2300056: WP2 Accelerator R1
+    2300058: WP2 Accelerator R2
+    3300000: AccM unit L
+    3300002: AccM unit R
+    3300004: E Pulse cannon_MeshPart0
+    3300006: E Pulse cannon_MeshPart1
+    3300008: Energy shield
+    3300010: F - X1_MeshPart0
+    3300012: F - X1_MeshPart1
+    3300014: F x interface eGEN
+    3300016: L SM interface
+    3300018: Light pulse phaser L
+    3300020: Light pulse phaser R
+    3300022: Mass D sensR L
+    3300024: 'Mass D sensR R '
+    3300026: Med pulse phaser L
+    3300028: Med pulse phaser R
+    3300030: Plane
+    3300032: R SM interface
+    3300034: Smart Missile x001
+    3300036: Smart Missile x002
+    3300038: Smart Missile x003
+    3300040: Smart Missile x004
+    3300042: Smart Missile x005
+    3300044: Smart Missile x006
+    3300046: 'Starseed missile 01 '
+    3300048: Starseed missile 02
+    3300050: V dial
+    3300052: WP2 Accelerator L1
+    3300054: WP2 Accelerator L2
+    3300056: WP2 Accelerator R1
+    3300058: WP2 Accelerator R2
+    4300000: AccM unit R
+    4300002: AccM unit L
+    4300004: Light pulse phaser R
+    4300006: Med pulse phaser R
+    4300008: Med pulse phaser L
+    4300010: Energy shield
+    4300012: 'Starseed missile 01 '
+    4300014: Plane
+    4300016: F - X1_MeshPart0
+    4300018: F - X1_MeshPart1
+    4300020: WP2 Accelerator R2
+    4300022: WP2 Accelerator L2
+    4300024: Mass D sensR L
+    4300026: 'Mass D sensR R '
+    4300028: F x interface eGEN
+    4300030: V dial
+    4300032: E Pulse cannon_MeshPart0
+    4300034: E Pulse cannon_MeshPart1
+    4300036: R SM interface
+    4300038: Smart Missile x006
+    4300040: Smart Missile x002
+    4300042: Smart Missile x005
+    4300044: L SM interface
+    4300046: Smart Missile x004
+    4300048: Smart Missile x001
+    4300050: Smart Missile x003
+    4300052: WP2 Accelerator R1
+    4300054: WP2 Accelerator L1
+    4300056: Starseed missile 02
+    4300058: Light pulse phaser L
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
